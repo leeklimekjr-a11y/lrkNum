@@ -1,3 +1,0 @@
-[submodule "vendor/numpy"]
-	path = vendor/numpy
-	url = https://www.github.com/numpy/numpy.git
